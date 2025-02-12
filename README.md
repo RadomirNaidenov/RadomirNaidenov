@@ -1,8 +1,6 @@
 <h1 align="center">Hello there, My name is Radomir! 👋</h1>
 <h3 align="center">I am passionate Pythonist⌨ who is currently interested in Python, Django Framework/Django, HMTL, CSS and JavaScript!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=radominaidenov" alt="radominaidenov" /></a> </p>
-
 - 🔭 I’m currently working on **Personal Projects**
 
 - 🌱 I’m currently learning **Full-stack development using Python, HTML, CSS and JS**
